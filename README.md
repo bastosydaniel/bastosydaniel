@@ -6,19 +6,16 @@
 
 <div align="center">      <img src="https://lh3.googleusercontent.com/UJni5EK_TlSFGtND0Fu4uj99JJdU1vBrxrGmd-v_4Krd-gljBtrzBlQam79BZoajrb1EHZA0qcj_B52-RKiUgL8NEKYhUj3pIP-GuU5bLq3PfE9nT49I7GOywqNuyGeqh-Qy_gzADEQDno4C9qYNnqFfp762Ndd2xR28K3t2SshUVoB6cKYWv5K7aq-Z6pd-fEThrNhGoq4Feof6ZR59taCBxPq8eTjieYKUznltu52b7kaMhmXg2B0yqrb4LbNld5Hc0oY93yjoH3YR5vBh6EuZHlqYdHmUPY9LsEiFSfpzxovPChcTgaVqZ33gWiXBhi9L1CkMfjvzMBRRn_jpwdfoluzfLFJognn7JwvHO_Fh03tOtdk2Frh-oPAkt2jDQmemwnW3wWxuwhHBTJAGTWmrJHNjaISkJxUnRWhopH224SF4dOEWSw9A51vBtu0GzdG2EA9n-I6ItjvqPIQcPac-iDKoCVkfXK8TagVWAN1_NSb5zPcMLxk3iqmcGrUDNSfI7kApI40CgPIc7pwjcI0nNOTF0E4Y8MJlqhkQ3UezXSzgzdSk8NcmNwGhLXW-nfW_CxlrIN2tZLvkQHqVw1gRsmkKUQJNIy1ARn7V-6Cm0vumDo1fZOSDeMj5iF0FYjkg7rV_9cExVkhwdXTcWAAVCbJZmHFxCxJvUsuVdMUldg7JLOyUJsfMGC0EQD49ooNNUhtfXwH86ejwUKAV-Tq_Jij7uKsTbpZozoKrwDLBzQFGg5KdW9_j_yo1pvJnDlt4Fj29GIWwiKO05I4fD3Zri8w=s800-no?authuser=0"  width="200em" ></div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <div align="center">
   <a href="https://github.com/bastosydaniel">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=bastosydaniel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosydaniel&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
  
-  <div align="right">
-
-    
-  </div>
-
-  
-  
   
 <p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Bastosydaniel" /></p>
   
