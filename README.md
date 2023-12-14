@@ -34,7 +34,10 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="50"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="go" width="40" height="50"/> </a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wp" width="40" height="50"/> </a>
 </p>
+
+
 
 
 ##
@@ -44,5 +47,5 @@
 
 <div align="center">
 
-<a href="https://bastosydaniel.github.io/My-devfolio/"><img src="https://img.shields.io/badge/-bastosydaniel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://dbb.dev.br/"><img src="https://img.shields.io/badge/-bastosydaniel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 </div>
